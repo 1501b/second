@@ -21,10 +21,4 @@ public class GitTestActivity extends Activity {
     protected void onDestroy() {
         super.onDestroy();
     }
-
-    @Override
-    protected void onDestroy() {
-        //
-        super.onDestroy();
-    }
 }
